@@ -1,2 +1,2 @@
-# elkto_datastore_data
+# elkto_datastore
 Redis container for elkto
